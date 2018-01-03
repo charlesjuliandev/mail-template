@@ -1,4 +1,4 @@
-## AOA Newsletter Flash Instructions
+## News Letter Template
 
 Copy and paste template code from `index.html`
 
